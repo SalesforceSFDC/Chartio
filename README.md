@@ -6,3 +6,4 @@
 
 
 * Data Warehouse (DW or Enterprise DW) - system used for reporting and data analysis and is considered a core component of business intelligence.
+* [Chartio Embedding](https://support.chartio.com/docs/embedding/#retrieve-dashboard-example-code)
